@@ -112,7 +112,7 @@ This is a critical pre-review, not an implementation plan. Every statement is la
    [P] Store sequences as **operations relative to the object** (e.g. "10 % of length, along the surface"), not as raw hand coordinates.
 4. **"Proactive suggestions" [R] vs. "never change without approval" [R].**
    [P] Assistants write **only to a separate proposal branch**. Accepting is always a user action.
-5. **"Works offline" [R] vs. "AI modules and community library" [R].
+5. **"Works offline" [R] vs. "AI modules and community library" [R].**
    [P] The core is complete without both. Modules and library are extensions.
 
 ### 3.3 Unclear assumptions
